@@ -37,7 +37,7 @@ There are different variants:
 # 📣 News
 
 
-*   **[2026-1-16]** 🔥 Our SFT Dataset **[Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b](https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b)** currently ranks **third** on Hugging Face’s datasets trending leaderboard and **tenth** on the overall trending leaderboard.
+*   **[2026-1-20]** 🔥 Our SFT Dataset **[Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b](https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b)** currently ranks **\#1** on Hugging Face’s datasets trending leaderboard and **\#5** on the overall trending leaderboard.
 *   **[2026-1-16]** 🔥 Our **[Technical Report](https://huggingface.co/papers/2601.09088)** ranks **fifth** in the Hugging Face Daily Papers.
 *   **[2026-1-15]** 🎉 Our **Technical Report** for Distribution-Aligned Sequence Distillation is now available on [Arxiv](https://arxiv.org/abs/2601.09088).
 *   **[2026-1-14]** 🎉 Our **Technical Report** for Distribution-Aligned Sequence Distillation is now available on [Github](https://github.com/D2I-ai/dasd-thinking/blob/main/dasd_technical_report.pdf).

@@ -37,6 +37,7 @@ There are different variants:
 # 📣 News
 
 
+*   **[2026-1-26]** 🎉 Our paper, "[Where Did This Sentence Come From? Tracing Provenance in LLM Reasoning Distillation](https://arxiv.org/abs/2512.20908)," which details the motivation and design of **Divergence-aware Sampling**, has been accepted to **ICLR 2026**!
 *   **[2026-1-20]** 🔥 Our SFT Dataset **[Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b](https://huggingface.co/datasets/Alibaba-Apsara/Superior-Reasoning-SFT-gpt-oss-120b)** currently ranks **\#1** on Hugging Face’s datasets trending leaderboard and **\#5** on the overall trending leaderboard.
 <img src="assets/huggingface-trending.png" alt="Ali" width="100%">
 
